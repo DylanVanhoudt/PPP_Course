@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BMI Completed</string>
+
+    <string name="weight_text">Weight in pounds</string>
+    <string name="height_text">Height in inch </string>
+    <string name="button_text_view">calculate</string>
+    <string name="todo">TODO</string>
+</resources>

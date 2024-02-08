@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Composing Mail</string>
+    <string name="to_edit_text_string">To:</string>
+    <string name="subject_edit_text_string">subject:</string>
+    <string name="message_edit_text_string">message</string>
+    <string name="button_string">send</string>
+</resources>
